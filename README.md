@@ -8,5 +8,8 @@ This repository is built step by step in the tutorial.
 It now includes steps for GitHub
 
 This message from new branch
+<<<<<<< HEAD
+=======
 
 olololo
+>>>>>>> parent of 942ddc7... commit revert#1
