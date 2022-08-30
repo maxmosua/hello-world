@@ -6,3 +6,5 @@ This tutorial focuses mainly on Gin and using GitHub as its remote
 This repository is built step by step in the tutorial.
 
 It now includes steps for GitHub
+
+This message from new branch
